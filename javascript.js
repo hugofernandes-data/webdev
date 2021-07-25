@@ -114,3 +114,5 @@ let multiply = (a,b) => a*b;
 function test(a) { 
 	console.log(a)
 }
+
+console.log("test2")
