@@ -105,7 +105,7 @@ const add2 = (a,b) => a+b;
 window.dataLayer = window.dataLayer || [];
 
 if(button.addEventListener) {button.addEventListener("click",function() {
-	return dataLayer.push({'name' : 'hugo'});
+	return dataLayer.push({'name' : 'hugo1'});
 });
 }
 
